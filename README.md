@@ -1,17 +1,17 @@
-<h2>👋 Hey there! I'm Farzync</h2>
+<h2>👋 Halo, Nama aku Faeza!</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me / Tentang Saya
 
-💡 &nbsp;I love exploring backend technologies and building robust, secure server-side solutions.  
-🎓 &nbsp;Currently studying at SMAN 10 Kota Bekasi.  
-🌱 &nbsp;On track for learning more about API design, authentication, cloud infrastructure, and cybersecurity.  
-🧠 &nbsp;Always learning more about backend frameworks, scalable architecture, and security best practices.
+💡 &nbsp;Aku suka Mengeksplorasi Teknologi & arsitektur yang secure, scalable untuk server-side solutions.  
+🎓 &nbsp;Currently a student at **SMAN 10 Kota Bekasi**, Whoop Whoop.  
+🌱 &nbsp;Lagi fokus belajar programming, physics, mathematics and cybersecurity.  
+🧠 &nbsp;Selalu semangat buat explore frameworks, architecture, & security best practices.
 
 ![](https://komarev.com/ghpvc/?username=Farzync&label=PROFILE+VIEWS)
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack / Tools yang Dipakai
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
@@ -20,34 +20,34 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 ---
 
-## 🚀 Featured Projects & Contributions
+## 🚀 Featured Projects / Proyek Unggulan
 
 ### 🔑 [azyqs-auth](https://github.com/Farzync/azyqs-auth)
-- **IP-Based Rate Limiting:**  
-  Advanced security for authentication endpoints, blocking brute-force and credential stuffing attempts.
-- **Audit Logging:**  
-  Tracks suspicious activity for security reviews.
-- **Testing & Documentation:**  
-  Clear docs and test guides for reliable deployment.
+- **IP-Based Rate Limiting**  
+  Proteksi ekstra untuk endpoint authentication, cegah brute-force & credential stuffing.  
+- **Audit Logging**  
+  Mencatat aktivitas mencurigakan buat security review.  
+- **Testing & Documentation**  
+  Clear docs & test guides → lebih gampang deploy & contribute.
 
 ### 🏫 [sman10-kota-bekasi](https://github.com/Farzync/sman10-kota-bekasi)
-- **Backend Engineering:**  
-  Focused on API, data models, and authentication flows for a scalable education platform.
-- **Security & Performance:**  
-  Hardened backend logic, authorization, and optimized DB interactions.
+- **Backend Engineering**  
+  Fokus di API, data models, & authentication flow untuk platform edukasi yang scalable.  
+- **Security & Performance**  
+  Backend logic lebih aman, authorization ketat, & DB interaction lebih optimal.
 
 ---
 
-## 🛡️ What I Value
-- **Backend Excellence:** Strong, scalable, secure server-side code is my specialty.
-- **Security:** Every system deserves resilient authentication and protection.
-- **Documentation:** I empower contributors and users through clear, up-to-date docs.
-- **Community:** My repos are open for feedback, contributions, and collaboration.
+## 🛡️ What I Value / Prinsip Saya
+- **Backend Excellence** → Kode server-side yang kuat, scalable, & secure.  
+- **Security First** → Setiap sistem wajib punya proteksi yang tangguh.  
+- **Documentation Matters** → Bikin kontribusi & kolaborasi lebih mudah.  
+- **Community & Collaboration** → Open repo for feedback, kontribusi, & ide baru.  
 
 ---
 
@@ -74,4 +74,5 @@
 
 ---
 
-_Thanks for visiting! Dive into my projects, open an issue, or suggest improvements—let's build secure and scalable backend solutions together!_
+_Thanks for visiting 🙌! Feel free to explore my projects, drop issues, or suggest improvements.  
+Terima kasih udah mampir! Collab bareng Yukkk 🚀_
