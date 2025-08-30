@@ -27,19 +27,19 @@
 
 ## 🚀 Featured Projects / Proyek Unggulan
 
-### 🔑 [azyqs-auth](https://github.com/Farzync/azyqs-auth)
-- **IP-Based Rate Limiting**  
-  Proteksi ekstra untuk endpoint authentication, cegah brute-force & credential stuffing.  
-- **Audit Logging**  
-  Mencatat aktivitas mencurigakan buat security review.  
-- **Testing & Documentation**  
-  Clear docs & test guides → lebih gampang deploy & contribute.
-
 ### 🏫 [sman10-kota-bekasi](https://github.com/Farzync/sman10-kota-bekasi)
 - **Backend Engineering**  
   Fokus di API, data models, & authentication flow untuk platform edukasi yang scalable.  
 - **Security & Performance**  
   Backend logic lebih aman, authorization ketat, & DB interaction lebih optimal.
+
+### 🔑 Proyek Rahasia (On-Going)
+- **Pengembangan Mandiri**  
+  Lagi ngerjain proyek rahasia secara independen.  
+- **Rencana Open Source**  
+  Kalau udah matang, bakal dirilis open source biar bisa terbuka untuk kontribusi dari siapa aja.  
+- **Eksperimen & Inovasi**  
+  Fokus ke eksperimen fitur-fitur baru yang (semoga) bisa bermanfaat luas nanti.
 
 ---
 
