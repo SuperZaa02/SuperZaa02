@@ -7,7 +7,7 @@
 🌱 &nbsp;Lagi fokus belajar programming, physics, mathematics and cybersecurity.  
 🧠 &nbsp;Selalu semangat buat explore frameworks, architecture, & security best practices.
 
-![](https://komarev.com/ghpvc/?username=Farzync&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=SuperZaa02&label=PROFILE+VIEWS)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🚀 Featured Projects / Proyek Unggulan
 
-### 🏫 [sman10-kota-bekasi](https://github.com/Farzync/sman10-kota-bekasi)
+### 🏫 [sman10-kota-bekasi](https://github.com/SuperZaa02/sman10-kota-bekasi)
 - **Backend Engineering**  
   Fokus di API, data models, & authentication flow untuk platform edukasi yang scalable.  
 - **Security & Performance**  
@@ -54,20 +54,20 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/Farzync" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <a href="https://github.com/SuperZaa02" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
     <img 
       height="170" 
       width="46%" 
       style="max-width: 100%; min-width: 280px;" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farzync&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
-      alt="Farzync's GitHub Stats"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperZaa02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+      alt="SuperZaa02's GitHub Stats"
     />
     <img 
       height="170" 
       width="46%" 
       style="max-width: 100%; min-width: 280px;" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzync&layout=compact&langs_count=8&theme=algolia" 
-      alt="Farzync's Top Languages"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuperZaa02&layout=compact&langs_count=8&theme=algolia" 
+      alt="SuperZaa02's Top Languages"
     />
   </a>
 </div>
